@@ -1,0 +1,70 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #b3cdd1;
+    background-image: linear-gradient(315deg, #b3cdd1 0%, #9fa4c4 74%);
+    /* eggradient */
+    
+}
+.pragya
+{
+    width:400px;
+    height: 550px;
+    background: cyan;
+    border-radius: 10px;
+}
+
+ div.sabai{
+    border: 2px solid black;
+    padding: 20px;
+
+}
+
+div.sabai div{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+}
+
+div.pragya label,input{
+    margin-bottom: 20px;
+}
+.btn{
+    padding: 10px;
+    border-radius: 5px;
+    color ruby-align: ;
+}
+
+
+
+@keyframese toph{
+0%
+{
+transform: scale(1);
+
+}
+
+50%
+{
+
+}
+}
+
+
+
+@keyframes toph{
+    0%{
+        opacity: 1;
+    }
+    50%
+    {
+        opacity: 0.3;
+    }
+    95%
+    {
+        opacity: 1;
+    }
+}
+ */
